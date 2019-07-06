@@ -1,0 +1,255 @@
+﻿  Weapon.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+game\Weapon.cpp(7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+game\Weapon.cpp(35): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  PlayerObject.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+game\PlayerObject.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  PlayerManager.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Menu.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+game\Menu.cpp(29): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1008): note: see declaration of 'wcstombs'
+game\Menu.cpp(87): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+game\Menu.cpp(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+game\Menu.cpp(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+game\Menu.cpp(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Main.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  GameMaterial.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+game\GameMaterial.cpp(14): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Game.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+game\Game.cpp(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+game\Game.cpp(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+game\Game.cpp(104): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+game\Game.cpp(110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+game\Game.cpp(111): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+game\Game.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+game\Game.cpp(114): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+game\Game.cpp(116): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+game\Game.cpp(117): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  Bullet.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  ViewFrustum.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  State.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  SpawnerObject.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+Engine\SpawnerObject.cpp(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  SoundSystem.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Scripting.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+Engine\Scripting.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Scripting.cpp(18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(26): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(45): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(47): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(59): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(84): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(101): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(110): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(120): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+Engine\Scripting.cpp(122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+Engine\Scripting.cpp(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Scripting.cpp(135): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(137): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(139): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Scripting.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Scripting.cpp(193): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Scripting.cpp(203): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Scripting.cpp(273): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Engine\Scripting.cpp(279): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(296): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+Engine\Scripting.cpp(361): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Engine\Scripting.cpp(366): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+Engine\Scripting.cpp(381): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(383): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(395): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(401): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(407): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(413): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Scripting.cpp(419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\ResourceManagement.h(30): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\ResourceManagement.h(10): note: while compiling class template member function 'Resource<Script>::Resource(char *,char *)'
+  Engine\Scripting.cpp(266): note: see reference to function template instantiation 'Resource<Script>::Resource(char *,char *)' being compiled
+  g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\Scripting.h(27): note: see reference to class template instantiation 'Resource<Script>' being compiled
+  SceneObject.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  SceneManager.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+Engine\SceneManager.cpp(192): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+Engine\SceneManager.cpp(193): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+Engine\SceneManager.cpp(196): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+Engine\SceneManager.cpp(201): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+Engine\SceneManager.cpp(202): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+Engine\SceneManager.cpp(208): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  RenderCache.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Network.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+Engine\Network.cpp(160): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+Engine\Network.cpp(171): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+Engine\Network.cpp(203): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+Engine\Network.cpp(382): warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1008): note: see declaration of 'wcstombs'
+  Mesh.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+Engine\Mesh.cpp(18): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Mesh.cpp(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Mesh.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Mesh.cpp(50): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Mesh.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Mesh.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\Mesh.cpp(227): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\Mesh.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\ResourceManagement.h(30): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\ResourceManagement.h(10): note: while compiling class template member function 'Resource<Mesh>::Resource(char *,char *)'
+  Engine\Mesh.cpp(154): note: see reference to function template instantiation 'Resource<Mesh>::Resource(char *,char *)' being compiled
+  g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\Mesh.h(46): note: see reference to class template instantiation 'Resource<Mesh>' being compiled
+  Material.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\ResourceManagement.h(30): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\ResourceManagement.h(10): note: while compiling class template member function 'Resource<Material>::Resource(char *,char *)'
+  Engine\Material.cpp(4): note: see reference to function template instantiation 'Resource<Material>::Resource(char *,char *)' being compiled
+  g:\doom\engine\version 1\fps-master1backup\fps-master\fps\source\chapter 13_v2\chapter 13\engine\Material.h(5): note: see reference to class template instantiation 'Resource<Material>' being compiled
+  Input.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Generating Code...
+  Compiling...
+  Font.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Engine.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  DeviceEnumeration.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+Engine\DeviceEnumeration.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\DeviceEnumeration.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Engine\DeviceEnumeration.cpp(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\DeviceEnumeration.cpp(113): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\DeviceEnumeration.cpp(127): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\DeviceEnumeration.cpp(220): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+Engine\DeviceEnumeration.cpp(250): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Bounding_Extended_Volume.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Animated_Extended_Object.cpp
+c:\program files (x86)\microsoft directx 9.0 sdk (october 2004)\include\dmerror.h(12): warning C4005: 'FACILITY_DIRECTMUSIC': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h(162): note: see previous definition of 'FACILITY_DIRECTMUSIC'
+  Generating Code...
+  Day_Doom.vcxproj -> G:\DOOM\Engine\Version 1\fps-master1Backup\fps-master\FPS\Source\Chapter 13_V2\Chapter 13\Debug\Day_Doom.exe
+  Day_Doom.vcxproj -> G:\DOOM\Engine\Version 1\fps-master1Backup\fps-master\FPS\Source\Chapter 13_V2\Chapter 13\Debug\Day_Doom.pdb (Full PDB)

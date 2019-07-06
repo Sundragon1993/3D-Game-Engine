@@ -1,0 +1,11 @@
+#begin
+mesh_path String ./Game/Assets/Characters/
+ellipse_radius vector 0.30 0.750 0.30
+mesh_name String Marine.x
+view_weapon_offset vector 5.0 55.0 0.0
+#end
+ellipse_radius     vector 0.3 0.75 0.3
+name               string Marine
+mesh_name          string Marine.x
+view_weapon_offset vector 5.0 55.0 0.0
+mesh_path          string ./Game/Assets/Characters/

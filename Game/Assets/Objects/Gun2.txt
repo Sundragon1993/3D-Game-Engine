@@ -1,0 +1,9 @@
+#begin
+
+frequency float  10.0
+radius float  0.0
+object String Gun2.txt
+object_path String ./Game/Assets/Objects/Gun2/
+sound String ./Game/Assets/Sounds/object_collect.wav
+
+#end
